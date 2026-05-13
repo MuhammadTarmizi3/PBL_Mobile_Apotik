@@ -1,0 +1,14 @@
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+*.g.dart
+*.freezed.dart
+.idea/
+.vscode/
+*.iml
+.env
+.DS_Store
+Thumbs.db
+reset_git_history.sh
